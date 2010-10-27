@@ -1,0 +1,8 @@
+
+development:
+  adapter: mysql
+  database: book_a_development
+  host: localhost
+  port: 3306
+  username: root
+  password: 1
